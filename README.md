@@ -24,10 +24,6 @@ composer install
 php -S 127.0.0.1:8080 -t public/
 ```
 
- - Caso queira, pode-se executar o projeto em produção pelo endereço abaixo:
- 
- [Clique aqui](#)
-
 
 ## Dependências
 * PHP ^7.2.x
