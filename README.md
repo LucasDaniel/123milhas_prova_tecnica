@@ -21,7 +21,7 @@ composer install
  - Se preferir executar **local**, utilize o seguinte comando na raiz do projeto
 
 ```
-php -S 127.0.0.1:8080 -t public/
+php -S 127.0.0.1:8000 -t public/
 ```
 
 
