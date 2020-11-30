@@ -17,4 +17,4 @@ $router->get('/', function () use ($router) {
     return $router->app->version();
 });
 
-$router->get('/', 'VooController@index');
+$router->get('/api/v1/voos', 'VooController@index');

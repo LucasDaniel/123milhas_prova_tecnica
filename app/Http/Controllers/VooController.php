@@ -41,7 +41,7 @@ class VooController extends Controller
             return response()->json([
                 'error' => [
                     'code' => 500,
-                    'message' => 'Origem de consulta indisponivel.',
+                    'message' => 'Fonte de dados indisponivel.',
                 ]
             ], 500);
         }
